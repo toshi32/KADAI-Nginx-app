@@ -1,0 +1,5 @@
+{
+  "name": "nginx-app",
+  "private": true,
+  "dependencies": {}
+}
